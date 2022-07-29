@@ -6,3 +6,5 @@
 - `cd web-scraper`
 - `npm i`
 - `npm start`
+
+- view results on localhost:8080/results
